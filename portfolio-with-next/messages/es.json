@@ -1,0 +1,9 @@
+{
+  "Index": {
+    "title": "El portafolio de Cristian"
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, es {🇪🇸 Español} en {🇺🇸 English} other {🌐 Otro}}"
+  }
+}
